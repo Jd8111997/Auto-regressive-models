@@ -1,7 +1,7 @@
 # Auto-regressive-models
-This repository contains code for training a type of generative model : Auto regressive models, and it's variants such as PixelCNN and GatedPixelCNN architecture.<br/>
+This repository contains code for training a type of generative model : auto regressive models, and it's variants such as PixelCNN and GatedPixelCNN architecture.<br/>
 Vanilla PixelCNN is implemented in Tensorflow, meanwhile PyTorch is used to train GatedPixelCNN and PixelCNN with color dependecy masking mechanism.<br/>
-Instead of MNIST for which this model performs exceptionally, I have used a Stanford Dog dataset, which you can download from here: https://www.kaggle.com/c/generative-dog-images/data<br/><br/>
+Instead of MNIST for which this model performs exceptionally well, I have used a Stanford Dog dataset, which you can download from here: https://www.kaggle.com/c/generative-dog-images/data<br/><br/>
 
 Thoughts on results:<br/>
 1) Well, I am very disappointed by seeing generated images as I am expecting some Photo realistic Images as GANs,which I am gonna try. <br/>
