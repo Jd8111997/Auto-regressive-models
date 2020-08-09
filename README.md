@@ -1,2 +1,2 @@
-# Deep-Generative-Models
-The implementation of various generative models to generate dog images.
+# Auto-regressive-models
+This repository contains the implementation of auto regressive models which is a category of deep generative models.
